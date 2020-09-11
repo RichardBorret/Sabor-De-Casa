@@ -61,7 +61,7 @@ using SaborDeCasa.Models;
             WriteLiteral("<br />\r\n<div class=\"container jumbotron\">\r\n    <div class=\"col-md-12\">\r\n        <h2 class=\"text-center\">Você foi registrado com sucesso. :)</h2>\r\n        <br />\r\n        ");
             EndContext();
             BeginContext(170, 83, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "ffcbca21513e4914b978cbf1980cdd50", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "b64b9a7915e1448f8423c1ba8ee397eb", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();

@@ -63,7 +63,7 @@ using SaborDeCasa.Models;
             WriteLiteral("<li class=\"dropdown\">\r\n    ");
             EndContext();
             BeginContext(27, 138, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d1cf2ebb617c43a889a8c71144a9169f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0009fca3155248d9be6b247db9fb5e1c", async() => {
                 BeginContext(127, 34, true);
                 WriteLiteral("Lanches<b class=\"caret\"></b>\r\n    ");
                 EndContext();
@@ -98,7 +98,7 @@ using SaborDeCasa.Models;
             WriteLiteral("            <li>\r\n                ");
             EndContext();
             BeginContext(287, 140, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d5d13bf421ea482f894b85c3367f50b7", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "11038cb24b844960a88232728a57f59a", async() => {
                 BeginContext(400, 23, false);
 #line 10 "C:\Users\richa\source\repos\SaborDeCasaSolution\SaborDeCasa\Views\Shared\Components\CategoriaMenu\Default.cshtml"
                                                              Write(categoria.CategoriaNome);
@@ -147,7 +147,7 @@ using SaborDeCasa.Models;
             WriteLiteral("        <li class=\"divider\"></li>\r\n        <li>\r\n            ");
             EndContext();
             BeginContext(520, 92, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "14e3b80fd4584417b06fe62e3e459f5f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9f70f687286e4c669ddadfe2b8a75830", async() => {
                 BeginContext(588, 20, true);
                 WriteLiteral("Ver todos os Lanches");
                 EndContext();

@@ -92,7 +92,7 @@ using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
             WriteLiteral("    ");
             EndContext();
             BeginContext(196, 305, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6530f5ec87c54fa982bc3e989b299235", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5f45f7b702394d898c077912757ec1c8", async() => {
                 BeginContext(321, 173, true);
                 WriteLiteral("\r\n        <ul class=\"nav navbar-nav navbar-right\">\r\n            <li><a href=\"javascript:document.getElementById(\'logoutForm\').submit()\">Log off</a></li>\r\n        </ul>\r\n    ");
                 EndContext();
@@ -134,7 +134,7 @@ else
             WriteLiteral("    <ul class=\"nav navbar-nav navbar-right\">\r\n        <li>");
             EndContext();
             BeginContext(573, 83, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "101a3b1e31e04370a1fa34f8125cf89e", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f766af197f614f249b85033b36057be2", async() => {
                 BeginContext(641, 11, true);
                 WriteLiteral(" Registrar ");
                 EndContext();
@@ -159,7 +159,7 @@ else
             WriteLiteral("</li>\r\n        <li>");
             EndContext();
             BeginContext(675, 74, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a271ce0371f34e429c5643489f5257fe", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "788ed6ce2ad649d89bdeeb4de5804878", async() => {
                 BeginContext(737, 8, true);
                 WriteLiteral(" Log in ");
                 EndContext();

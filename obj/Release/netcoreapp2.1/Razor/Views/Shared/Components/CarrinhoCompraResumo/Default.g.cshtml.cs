@@ -68,7 +68,7 @@ using SaborDeCasa.Models;
             WriteLiteral("    <li>\r\n        ");
             EndContext();
             BeginContext(113, 241, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "42df14d9af174bb5baf655560bc97dc5", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "adae926cc32f401f8b9cc3ce42640d16", async() => {
                 BeginContext(148, 124, true);
                 WriteLiteral("\r\n            <span class=\"glyphicon glyphicon-shopping-cart\"></span>\r\n            <span id=\"cart-status\">\r\n                ");
                 EndContext();
